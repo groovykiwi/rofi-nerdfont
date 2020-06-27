@@ -1,2 +1,2 @@
 # rofi-nerdfont
-Nerd Font cheat sheet for Rofi
+## How to use
