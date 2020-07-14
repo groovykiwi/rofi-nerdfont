@@ -2,6 +2,7 @@
 ![Picture](https://github.com/groovykiwi/rofi-nerdfont/blob/master/rofi.png)
 ## How to use
 If necessary add `-font "yourfont size"` to the rofi command if the icons are not displaying properly  
+Some icons cause rofi to mess up the alignment and put them all the way to the left, shouldn't affect the script but still to be noted  
 
 ### Print icon to terminal
 ```
